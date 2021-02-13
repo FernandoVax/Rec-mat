@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FernandoVax/Rec-mat/static/css/main.b25167aa.chunk.css",
+    "main.js": "/FernandoVax/Rec-mat/static/js/main.d8f03014.chunk.js",
+    "main.js.map": "/FernandoVax/Rec-mat/static/js/main.d8f03014.chunk.js.map",
+    "runtime-main.js": "/FernandoVax/Rec-mat/static/js/runtime-main.5e15cab9.js",
+    "runtime-main.js.map": "/FernandoVax/Rec-mat/static/js/runtime-main.5e15cab9.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/FernandoVax/Rec-mat/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.8e9443ff.chunk.js": "/FernandoVax/Rec-mat/static/js/2.8e9443ff.chunk.js",
+    "static/js/2.8e9443ff.chunk.js.map": "/FernandoVax/Rec-mat/static/js/2.8e9443ff.chunk.js.map",
+    "index.html": "/FernandoVax/Rec-mat/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/FernandoVax/Rec-mat/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.b25167aa.chunk.css.map": "/FernandoVax/Rec-mat/static/css/main.b25167aa.chunk.css.map",
+    "static/js/2.8e9443ff.chunk.js.LICENSE.txt": "/FernandoVax/Rec-mat/static/js/2.8e9443ff.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/FernandoVax/Rec-mat/static/media/reflexiona1.c6a40b91.gif",
+    "static/media/aplausos.61657497.gif": "/FernandoVax/Rec-mat/static/media/aplausos.61657497.gif",
+    "static/media/cerebro.a1c187b9.gif": "/FernandoVax/Rec-mat/static/media/cerebro.a1c187b9.gif",
+    "static/media/logo.44e27b0c.png": "/FernandoVax/Rec-mat/static/media/logo.44e27b0c.png",
+    "static/media/nerd.bb99fd94.gif": "/FernandoVax/Rec-mat/static/media/nerd.bb99fd94.gif",
+    "static/media/thumbsup.92a019cc.gif": "/FernandoVax/Rec-mat/static/media/thumbsup.92a019cc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e15cab9.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.8e9443ff.chunk.js",
+    "static/css/main.b25167aa.chunk.css",
+    "static/js/main.d8f03014.chunk.js"
+  ]
+}
