@@ -1,0 +1,173 @@
+@import "./estilos/vars";
+@import "./estilos/componentes";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f5f5;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bg-main {
+  background-color: $primario;
+  color: white;
+}
+
+.wrap-anim1 {
+  background-image: url(./assets/onda1.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: $secundario;
+  border-radius: 8px;
+  height: 120px; // antes 180px
+  width: 180px;
+}
+
+.wrap-anim2 {
+  background-image: url(./assets/rectangulo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 8px;
+  height: 120px; // antes 180px
+  width: 180px;
+}
+
+.wrap-anim3 {
+  background-image: url(./assets/Escalera.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 8px;
+  height: 120px; // antes 180px
+  width: 180px;
+}
+
+.wrap-anim4 {
+  background-image: url(./assets/cono.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  border-radius: 8px;
+  height: 120px; // antes 180px
+  width: 180px;
+}
+
+.bg-primario {
+  background-color: $primario;
+  color: white;
+}
+
+.bg-secundario {
+  background-color: $secundario;
+  color: white;
+}
+
+.card-header:hover {
+  cursor: pointer;
+}
+
+.card-body {
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.157);
+}
+
+.btn-own-style {
+  text-align: left;
+}
+
+.btn-block:hover {
+  background: rgb(235, 235, 235);
+  text-decoration: none;
+  // cursor: initial;
+}
+
+.myjumbotron {
+  padding: 0;
+  margin-bottom: 0;
+  border-radius: 0;
+  //   color: white;
+  background-image: url("https://images.unsplash.com/photo-1453733190371-0a9bedd82893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+  background-image: linear-gradient(#5a5959be, rgba(110, 109, 109, 0.253)),
+    url("https://images.unsplash.com/photo-1453733190371-0a9bedd82893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#accordion {
+  padding-bottom: 10px;
+}
+
+footer {
+  background-color: $primario;
+  padding-top: 20px;
+}
+
+.cont {
+  padding-bottom: 2rem;
+}
+
+.container-btn-opciones {
+  // background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 2rem;
+}
+
+.btn-opciones-tema {
+  background: $primario;
+  width: 10rem;
+}
+
+.img-onda-red {
+  background-image: url(./assets/onda3.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: $secundario;
+  border-radius: 8px;
+  height: 240px; // antes 180px
+  width: 317px;
+  float: left;
+}
+
+.img-onda-gota {
+  background-image: url(./assets/onda4.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: $secundario;
+  border-radius: 8px;
+  height: 128px; // antes 180px
+  width: 180px;
+  float: left;
+}
+
+.img-circulo-onda {
+  background-image: url(./assets/CirculoOndas.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: $secundario;
+  border-radius: 8px;
+  width: 175px;
+  height: 180px; // antes 180px
+  float: left;
+}
+
+.emoji {
+  background-image: url(./assets/reflexiona1.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  // background-color: $secundario;
+  border-radius: 8px;
+  height: 100px; // antes 180px
+  width: 100px;
+  float: left;
+}
